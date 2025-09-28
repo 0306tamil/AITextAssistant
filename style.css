@@ -1,1 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 300px;
+  padding: 10px;
+}
+
+textarea {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 5px;
+  font-size: 14px;
+}
+
+button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+#outputText {
+  margin-top: 10px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  min-height: 50px;
+  background: #f9f9f9;
+}
 
